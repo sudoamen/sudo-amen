@@ -1,0 +1,12 @@
+{
+  "name": "sudo-amen",
+  "version": "0.1.0",
+  "description": "Affirmations as code. Embedding care into the systems we build.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "sudo-amen": "bin/cli.js"
+  },
+  "keywords": ["affirmations", "culture", "developer-tools", "sudo", "amen"],
+  "license": "MIT"
+}
